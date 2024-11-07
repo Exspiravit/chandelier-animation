@@ -51,3 +51,7 @@ Este proyecto es una aplicación de animación interactiva que simula cuerdas ut
 ## Créditos
 
 Referencia: https://github.com/tharuncruz7/Chandelier-Animation
+
+## Test
+
+Puedes probarlo desde este enlace: https://chandelier-animation.netlify.app/
